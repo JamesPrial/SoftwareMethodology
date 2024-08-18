@@ -1,3 +1,5 @@
+package ru.cs213.backend;
+
 /**
  * A class defining the properties of the Donut hole
  * type of donut with its specific prices.

@@ -1,3 +1,5 @@
+package ru.cs213.backend;
+
 /** @enum mapper::CoffeeAddIns
  *
  * @author Swarnendu Roy

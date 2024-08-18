@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "RUCafe"
-    ]
+        "backend", "gui"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
 }

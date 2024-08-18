@@ -1,3 +1,5 @@
+package ru.cs213.backend;
+
 /**
  * A class defining the Menu Items of the store.
  * This class helps defining the basic functions which are

@@ -1,3 +1,5 @@
+package ru.cs213.backend;
+
 import java.util.ArrayList;
 
 public class Coffee extends MenuItem implements Customizable {

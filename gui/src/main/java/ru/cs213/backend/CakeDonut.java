@@ -1,3 +1,5 @@
+package ru.cs213.backend;
+
 /**
  * A class defining the properties of the
  * Cake Donut type to be able to successfully place orders

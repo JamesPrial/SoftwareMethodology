@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller">
+   <children>
+      <Button layoutX="68.0" layoutY="154.0" mnemonicParsing="false" text="Order Donuts" />
+      <Button layoutX="251.0" layoutY="154.0" mnemonicParsing="false" text="Order Coffee" />
+      <Button layoutX="417.0" layoutY="154.0" mnemonicParsing="false" text="Show Current Order" />
+      <Button layoutX="243.0" layoutY="333.0" mnemonicParsing="false" prefHeight="11.0" prefWidth="101.0" text="Show All Orders" />
+   </children>
+</AnchorPane>
