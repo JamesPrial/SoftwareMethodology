@@ -1,4 +1,3 @@
-
 /**
  * A class defining the properties of the
  * Yeast Donut type to be able to successfully place orders
@@ -15,7 +14,7 @@ public class YeastDonut extends MenuItem{
     private DonutFlavors flavor;
 
     /**
-     * A constructor of the Yeast Donut with the parameter
+     * A constructor of the Yest Donut with the parameter
      * of the flavor to be able to initialize the class object
      * with the flavor.
      * @param flavor the type of flavor as defined in the enum class DonutFlavors.

@@ -1,4 +1,3 @@
-
 /** @enum mapper::CoffeeAddIns
  *
  * @author Swarnendu Roy

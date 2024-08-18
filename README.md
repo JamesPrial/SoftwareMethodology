@@ -1,2 +1,0 @@
-# SoftwareMethodology
-SDLC, app dev
